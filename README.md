@@ -1,2 +1,1 @@
-# Engenharia de requisitos
-Métodos e requisitos funcionais.
+# Métodos e requisitos funcionais
