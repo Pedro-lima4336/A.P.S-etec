@@ -1,2 +1,2 @@
-# Trabalho de análise e projeto de sistemas
-Documento Visão
+# Casos de uso
+Diagrama e descrição de casos de uso
